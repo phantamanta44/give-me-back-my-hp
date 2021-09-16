@@ -1,0 +1,17 @@
+[
+{
+  "modid": "givemebackmyhp",
+  "name": "Give me back my HP!",
+  "description": "Fixes the issue where players with increased max health will not have full health on login.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["phantamanta44"],
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "dependencies": [],
+  "requiredMods": []
+}
+]
